@@ -1,3 +1,5 @@
+react-study의 참고 강의 - [누구든지 하는 리액트](https://react-anyone.vlpt.us/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

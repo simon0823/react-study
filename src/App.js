@@ -1,5 +1,6 @@
 import React, {Component, Fragment} from 'react';
-import Counter from './Counter';
+import Name from './props/Name';
+import Counter from './state/Counter';
 import './App.css';
 
 class App extends Component {
@@ -7,9 +8,10 @@ class App extends Component {
     return (
         <Fragment>
           <div className="App"> Hello World! </div>
+          <Name name='Ryu'/>
           <Counter/>
         </Fragment>
-    )
+    );
   }
 }
 
